@@ -1,3 +1,6 @@
 Idea:
-
 data --> DeFram (Decom)
+
+TODO:
+- Create real data (check in matlab)
+- Create frame signal: start of frame, end of frame, valid, etc. (may check Ken version)
