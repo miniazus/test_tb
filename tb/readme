@@ -1,3 +1,5 @@
 It will read the txt file and get data folowing the time given in the file.
 File format:
 <time ps> ; <sid> ; <512 bit data>
+
+tb_driver.sv: read data from the txt and push data to top_tb.sv
