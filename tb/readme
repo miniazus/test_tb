@@ -1,0 +1,3 @@
+It will read the txt file and get data folowing the time given in the file.
+File format:
+<time ps> ; <sid> ; <512 bit data>
