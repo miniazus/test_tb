@@ -1,1 +1,9 @@
 Use to create data which will be an input of DeFr of Decomb
+
+File format:
+<time ps> ; <sid> ; <512 bit data>
+
+Current verison:
+- create 512 bit random 
+    --> Data from LM: Need change to sine wave
+    --> Data from Decomd: Need to change to Baseband and do Downsample
